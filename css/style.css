@@ -173,6 +173,7 @@ header{
         justify-content: center;
         gap: 23px;
         font-size:12px;
+        margin-bottom: 12px;
     }
     .img-header a:first-child{
         font-weight: bold;
